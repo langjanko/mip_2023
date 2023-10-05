@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.21)  28 SEP 2023 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.21)  28 SEP 2023 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -47,14 +47,52 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-)
+) (C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-07-04 L3 programming layer (loader) 
+
 (C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count193
 \l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
 )
-No file priklad01.aux.
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count194
+\l__lipsum_a_int=\count195
+\l__lipsum_b_int=\count196
+
+(C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+
+(C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count197
+\c@Blindtext=\count198
+\c@blind@countparstart=\count199
+\blind@countxx=\count266
+\blindtext@numBlindtext=\count267
+\blind@countyy=\count268
+\c@blindlist=\count269
+\c@blindlistlevel=\count270
+\c@blindlist@level=\count271
+\blind@listitem=\count272
+\c@blind@listcount=\count273
+\c@blind@levelcount=\count274
+\blind@mathformula=\count275
+\blind@Mathformula=\count276
+\c@blind@randomcount=\count277
+\c@blind@randommax=\count278
+\c@blind@pangramcount=\count279
+\c@blind@pangrammax=\count280
+)
+(priklad01.aux)
 \openout1 = `priklad01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -75,16 +113,16 @@ LaTeX Font Info:    ... okay on input line 11.
 (C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
+\scratchcounter=\count281
 \scratchdimen=\dimen141
 \scratchbox=\box52
-\nofMPsegments=\count195
-\nofMParguments=\count196
+\nofMPsegments=\count282
+\nofMParguments=\count283
 \everyMPshowfont=\toks17
-\MPscratchCnt=\count197
+\MPscratchCnt=\count284
 \MPscratchDim=\dimen142
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
 \everyMPtoPDFconversion=\toks18
 )
 (C:\Users\janko\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -106,23 +144,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/janko/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(priklad01.aux) ) 
+[2] [3] [4] [5] [6{C:/Users/janko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
+/cm-super/cm-super-ts1.enc}] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (2.59644pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Lorem ip-sum do-lor sit amet, con-sectetuer adip-isc-ing elit
+. Etiam
+ []
+
+[13]
+Overfull \hbox (2.59644pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Lorem ip-sum do-lor sit amet, con-sectetuer adip-isc-ing elit
+. Etiam
+ []
+
+
+Overfull \hbox (2.59644pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10 Lorem ip-sum do-lor sit amet, con-sectetuer adip-isc-ing elit
+. Etiam
+ []
+
+[14] [15] [16] [17] (priklad01.aux) ) 
 Here is how much of TeX's memory you used:
- 1297 strings out of 478339
- 21948 string characters out of 2836699
- 318400 words of memory out of 3000000
- 19770 multiletter control sequences out of 15000+600000
- 472899 words of font info for 40 fonts, out of 8000000 for 9000
+ 1959 strings out of 478339
+ 37117 string characters out of 2836699
+ 426874 words of memory out of 3000000
+ 20405 multiletter control sequences out of 15000+600000
+ 473849 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,188b,194s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/janko/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Users/janko/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/janko/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/janko/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on priklad01.pdf (1 page, 43611 bytes).
+ 72i,6n,77p,237b,390s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/janko/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/janko/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/janko/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/janko/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
+s/janko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+<C:/Users/janko/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1
+000.pfb>
+Output written on priklad01.pdf (17 pages, 116270 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
