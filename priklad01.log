@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.21)  28 SEP 2023 17:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.21)  5 OCT 2023 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -146,19 +146,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/janko/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 [2] [3] [4] [5] [6{C:/Users/janko/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
 /cm-super/cm-super-ts1.enc}] [7] [8] [9] [10] [11] [12]
-Overfull \hbox (2.59644pt too wide) in paragraph at lines 17--17
+Overfull \hbox (2.59644pt too wide) in paragraph at lines 20--20
 []\OT1/cmr/m/n/10 Lorem ip-sum do-lor sit amet, con-sectetuer adip-isc-ing elit
 . Etiam
  []
 
 [13]
-Overfull \hbox (2.59644pt too wide) in paragraph at lines 17--17
+Overfull \hbox (2.59644pt too wide) in paragraph at lines 20--20
 []\OT1/cmr/m/n/10 Lorem ip-sum do-lor sit amet, con-sectetuer adip-isc-ing elit
 . Etiam
  []
 
 
-Overfull \hbox (2.59644pt too wide) in paragraph at lines 17--17
+Overfull \hbox (2.59644pt too wide) in paragraph at lines 20--20
 []\OT1/cmr/m/n/10 Lorem ip-sum do-lor sit amet, con-sectetuer adip-isc-ing elit
 . Etiam
  []
@@ -166,8 +166,8 @@ Overfull \hbox (2.59644pt too wide) in paragraph at lines 17--17
 [14] [15] [16] [17] (priklad01.aux) ) 
 Here is how much of TeX's memory you used:
  1959 strings out of 478339
- 37117 string characters out of 2836699
- 426874 words of memory out of 3000000
+ 37137 string characters out of 2836699
+ 426876 words of memory out of 3000000
  20405 multiletter control sequences out of 15000+600000
  473849 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -180,7 +180,7 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
 s/janko/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
 <C:/Users/janko/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1
 000.pfb>
-Output written on priklad01.pdf (17 pages, 116270 bytes).
+Output written on priklad01.pdf (17 pages, 117040 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
